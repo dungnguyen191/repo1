@@ -1,0 +1,28 @@
+TOKEN= EAAAFM5Enos3YoQqu0SKPWhtsQ9xXAOps4cr-O9qSJ5DF6N_PrZtKIQyFUWq-Cu-
+
+mailchimp-key =1f3a1883d10906898d5faadd2eaa4423-us11
+
+sendgrid_key =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
+
+AIRTABLE_API = patBnGdzChWJVQIUy.3065215bc72170c02f54fe3b32e72a67e961148d758c9867358714514ad0bb90
+
+INFURA='https://mainnet.infura.io/v3/593a23e5d2d944b8a16b9aa6d0dea86f'
+
+aws_secret_key = AKIATRRXZPMV5NNO6LGS
+aws_secret_key =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
+
+DIGITAL_OCEAN_API =dop_v1_c72eac58d57c09416293806cfc45db25b9e8216c6013d2eab4d30188928adbba
+
+TRAVIS_CI = '4rWLCE5Mpj6fjI4HBLxf_w OR mMDBV22x4kQHvIbL5BrvmQ'
+
+slackGrowthWebhookUrl = 'https://hooks.slack.com/services/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'
+
+NETLIFY_KEY =1hzr_HFpKgWeLvpQSiEuiDJvg6gGAjgNDUGkf_FR7o0
+
+NPM_TOKEN =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
+
+code_climate_token=0662ec19a65cd2c252f5bf3eab847c833fbd059f
+
+hapikey=pat-na1-ae94d0b2-9457-4c87-aad5-bafe14832849
+
+POSTMAN_KEY =PMAK-646b21c3ab5ec76a5b2117da-05d04c3d223fd750dc330d969e5b1a5023
